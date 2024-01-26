@@ -1,0 +1,66 @@
+body {
+  font-family:monospace;
+  text-align:center;
+  margin:auto;
+}
+
+#title {
+  margin-top:70px;
+  word-spacing:10px;
+}
+a {
+  color:black;
+  font-size:20px;
+  text-decoration-color:red;
+}
+
+a:hover {
+  color:black;
+
+}
+h1 {
+  font-size:70px;
+}
+
+#intro {
+  margin-top:90px;
+}
+
+h2 {
+  font-size:35px;
+}
+
+p {
+  font-size:17px;
+}
+
+xmp {
+  font-size:17px;
+}
+
+#services a {
+  font-size:40px;
+  
+}
+
+#services {
+  margin-top:90px;
+}
+
+#imdb {
+  margin-top:80px;
+}
+
+#whoogle {
+  margin-top:80px;
+  margin-bottom:80px;
+}
+
+
+#stallman {
+  word-spacing:0.5px;
+}
+
+#alert {
+  color:red;
+}
